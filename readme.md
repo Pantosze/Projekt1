@@ -5,4 +5,10 @@ nauka gita 4
 nauka polecenia push
 
 nowy branch1
-nowy branch 2
+nowy branch
+
+eksperyment
+eksperyment2
+
+pwd
+ls
